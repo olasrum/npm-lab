@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clock app that changes color every second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/olasrum/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olasrum/npm-lab/issues"
+  },
+  "homepage": "https://github.com/olasrum/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
